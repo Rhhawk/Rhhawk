@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=gradient&customColorList=0,2,100,55,31"/>
+
 ## Olá,👋
 
 me chamo Henrique, sou profissional da área da tecnologia, estou buscando uma oportunidade como um Desenvolver Front-End, 
@@ -34,3 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=0,2,100,55,31"/>
