@@ -19,7 +19,10 @@ Estou estudando na maior instituição do Brasil, a DevClub, estou desenvolvendo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhhawk&layout=compact)
 
-
+<div align="center">
+      <img src="https://github.com/Rhhawk/Rhhawk/blob/main/github-snake-contribution.svg" alt="snake" /></a>
+      
+  </div>
 
 
 <!--
