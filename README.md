@@ -4,28 +4,40 @@
 ##
 <br>
 <br>
+
+##  Sobre mim
+
+>🌱 Explorando novas tecnologias e desenvolvendo soluções de software.
+> 
+>🎓 Graduando em Develope Full Stack - Instituição DevClub 
+>
+> 🎯 Objetivo atuar como profissional na area da tecnologia.
+>
+
+ <br/>
+
+ <br>
+ 
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhhawk&theme=holi-theme&locale=pt_BR&card_width=900)](https://git.io/streak-stats)
-<!--
+
 </div>
 
-me chamo Henrique, sou profissional da área da tecnologia, estou buscando uma oportunidade como um Desenvolver Front-End, 
-tenho conhecimento das tecnologias: 
+<div align="center">
+  
 
-  - HTML, 
-  - CSS, 
-  - JAVASCRIPT, 
-
-Estou estudando na maior instituição do Brasil, a DevClub, estou desenvolvendo projetos, aplicativos, sistemas web e softwares personalizados para aprimorar meus conhecimentos, e atuar como um Desenvolver Full Stack, no momento estou atuando como Freelancer, fazendo trabalhos e projetos com essas tecnologias.
--->
-## Segue minhas redes: <br> <br>
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=009fd1&color:FFF&logoSize=100)](https://www.linkedin.com/in/henrique-s-costa/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=009fd1&color:FFF)](https://www.linkedin.com/in/henrique-s-costa/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=009fd1&color:FFF)](https://github.com/Rhhawk)
 [![Vercel](https://img.shields.io/badge/Portifólio-000.svg?style=for-the-badge&logo=vercel&logoColor=009fd1&color:FFF)](https://portfolio-phi-self-17.vercel.app)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=009fd1&color:FFF)](www.instagram.com/rh.henrique.silva)
+
+</div>
+ <br/>
+
+
+
+
 <!--<a href="https://www.instagram.com/rh.henrique.silva/?next=%2F"><img src="https://github.com/Rhhawk/Rhhawk/assets/166954031/2dcf6494-dd2f-49bb-b4e5-a3c6e895c184" width="40px" /></a> &nbsp; <a href="https://www.linkedin.com/in/henrique-s-costa/"><img src="https://github.com/Rhhawk/Rhhawk/assets/166954031/e1aea51e-0aad-432d-9817-67fe099e6692" width="40px" /></a>-->
 
 <br>
@@ -36,11 +48,32 @@ Estou estudando na maior instituição do Brasil, a DevClub, estou desenvolvendo
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rhhawk&show_icons=true&count_private=true&hide_border=true&title_color=4A93CAFF&icon_color=009fd1&text_color=c9d1d9&bg_color=0d1117"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhhawk&layout=compact&hide_border=true&title_color=4A93CAFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+<br>
+
+<div align="center">
+  
+## 💻 Principais Tecnologias:
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+
+
+</div>
+<br>
+<br>
+
+
 
 <div align="center">
       <img src="https://github.com/Rhhawk/Rhhawk/blob/main/github-snake-contribution.svg" alt="snake" /></a>
       
   </div>
+
+## Segue minhas redes: <br> <br>
+
 
 
 <!--
