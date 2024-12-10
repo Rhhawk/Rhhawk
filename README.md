@@ -7,18 +7,17 @@
 
 ##  Sobre mim
 
->🌱 Explorando novas tecnologias e desenvolvendo soluções de software.
-> 
->🎓 Graduando em Develope Full Stack - Instituição DevClub 
->
-> 🎯 Objetivo atuar como profissional na area da tecnologia.
->
+- 🌱 Explorando novas tecnologias e desenvolvendo soluções de software. <img align="right" width="250px" height="auto" src="https://github.com/Rhhawk/Rhhawk/blob/main/Dev-Full-Stack1.png" alt="img-dev"/>
+- 🎓 Graduando como Develope Full Stack - Instituição DevClub
+- 🎯 Objetivo atuar como profissional na area da tecnologia.
+
 
  <br/>
 
  <br>
  
 <div align="center">
+
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhhawk&theme=holi-theme&locale=pt_BR&card_width=900)](https://git.io/streak-stats)
 
@@ -82,7 +81,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
