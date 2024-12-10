@@ -17,7 +17,7 @@
 
 </div>
 
- ### Sobre mim 🙋
+ ### 🙋 Sobre mim 
  
 <br>
 
