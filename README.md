@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=009fd1&color:FFF)](https://www.linkedin.com/in/henrique-s-costa/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=009fd1&color:FFF)](https://github.com/Rhhawk)
 [![Vercel](https://img.shields.io/badge/Portifólio-000.svg?style=for-the-badge&logo=vercel&logoColor=009fd1&color:FFF)](https://portfolio-phi-self-17.vercel.app)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=009fd1&color:FFF)](www.instagram.com/rh.henrique.silva)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=009fd1&color:FFF)](https://www.instagram.com/rh.henrique.silva)
 
 </div>
 
