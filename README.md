@@ -27,9 +27,9 @@
 
 - 🌱 Explorando novas tecnologias e desenvolvendo soluções de software.
   
-- 🎓 Graduando como Develope Full Stack - Instituição DevClub
+- 🎓 Graduando como Developer Full Stack - Instituição DevClub
   
-- 🎯 Objetivo atuar como profissional na area da tecnologia.
+- 🎯 Objetivo atuar como profissional na área da tecnologia.
 
 
 
