@@ -1,11 +1,27 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4a63e9&height=110&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=4A93CA&center=true&width=800&lines=Ol%C3%A1%2C%F0%9F%91%8B+meu+nome+%C3%A9+Henrique!;Sou+um+Desenvolvedor+Full+Stack+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;sejam+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
-##
+
+
 <br>
 <br>
 
-##  Sobre mim
+##
+<div align="center">
+  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=009fd1&color:FFF)](https://www.linkedin.com/in/henrique-s-costa/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=009fd1&color:FFF)](https://github.com/Rhhawk)
+[![Vercel](https://img.shields.io/badge/Portifólio-000.svg?style=for-the-badge&logo=vercel&logoColor=009fd1&color:FFF)](https://portfolio-phi-self-17.vercel.app)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=009fd1&color:FFF)](www.instagram.com/rh.henrique.silva)
+
+</div>
+
+ ### Sobre mim
+ 
+<br>
+
+
 
 <img align="right" width="200px" height="auto" src="https://github.com/Rhhawk/Rhhawk/blob/main/Dev-Full-Stack1.png" alt="img-dev"/>
 
@@ -16,9 +32,13 @@
 - 🎯 Objetivo atuar como profissional na area da tecnologia.
 
 
+
  <br/>
 
+##
+
  <br>
+ 
 
  
 <div align="center">
@@ -28,18 +48,6 @@
 
 
 </div>
-
-<div align="center">
-  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=009fd1&color:FFF)](https://www.linkedin.com/in/henrique-s-costa/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=009fd1&color:FFF)](https://github.com/Rhhawk)
-[![Vercel](https://img.shields.io/badge/Portifólio-000.svg?style=for-the-badge&logo=vercel&logoColor=009fd1&color:FFF)](https://portfolio-phi-self-17.vercel.app)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=009fd1&color:FFF)](www.instagram.com/rh.henrique.silva)
-
-</div>
- <br/>
-
 
 
 
@@ -77,7 +85,7 @@
       
   </div>
 
-## Segue minhas redes: <br> <br>
+<br> <br>
 
 
 
